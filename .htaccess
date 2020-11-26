@@ -1,7 +1,7 @@
 # 301 Redirect Old File
-Redirect 301 /profiles.html /প্রোফাইলগুলি
-Redirect 301 /index.html /
-Redirect 301 /প্রোফাইলগুলি/index.html /প্রোফাইলগুলি
+#Redirect 301 /profiles.html /প্রোফাইলগুলি
+#Redirect 301 /index.html /
+#Redirect 301 /প্রোফাইলগুলি/index.html /প্রোফাইলগুলি
 
 # Prevent viewing of .htaccess file
 <Files .htaccess>
