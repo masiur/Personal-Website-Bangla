@@ -13,4 +13,4 @@ deny from all
 Options All -Indexes
 
 # serve alternate default index page
-DirectoryIndex index.html
+#DirectoryIndex index.html
